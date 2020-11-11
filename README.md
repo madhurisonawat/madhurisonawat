@@ -6,6 +6,7 @@
  
 # :muscle: How I am different from others?
  #### :white_square_button: A hardworking and quick learner.
+ #### :white_square_button: Passionate about my work.
  #### :white_square_button: Aimimg to become better developer with each passing day.
  
 # :office: How Can you reach me?
