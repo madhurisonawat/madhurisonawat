@@ -5,7 +5,7 @@
 
  I am Madhuri Sonawat  :raising_hand_woman: from Bangalore. I am Full Stack Web Developer. I am skilled in Express js , Node.js, MongoDB, React, Javascript, Material-ui, CSS, HTML and Data Structures and Algorithm.
  
-# :muscle: How I am different from others?
+# :muscle: How am I different from others?
  #### :white_square_button: A hardworking and quick learner.
  #### :white_square_button: Passionate about my work.
  #### :white_square_button: Aimimg to become better developer with each passing day.
