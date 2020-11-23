@@ -1,6 +1,7 @@
 # madhurisonawat
 
 # Hi there :wave:	
+<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
 
  I am Madhuri Sonawat  :raising_hand_woman: from Bangalore. I am Full Stack Web Developer. I am skilled in Express js , Node.js, MongoDB, React, Javascript, Material-ui, CSS, HTML and Data Structures and Algorithm.
  
