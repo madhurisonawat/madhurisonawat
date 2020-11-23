@@ -30,6 +30,8 @@
     <img width="50" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/q1cwqhahz7jbtfzalznd">&nbsp;&nbsp;
     <img width="80" margin="20 0 0 0" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/mongodb.png?itok=T7Bcj44-">&nbsp;&nbsp;
 </p>
+
+[![Madhuri Sonawat github stats](https://github-readme-stats.vercel.app/api?username=madhurisonawat)](https://github.com/madhurisonawat/github-readme-stats)
  
  
  
