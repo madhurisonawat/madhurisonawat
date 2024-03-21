@@ -3,7 +3,7 @@
 # Hi there :wave:	
 <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
 
- I am Madhuri Sonawat  :raising_hand_woman: from Kolkata. I am Frontend Developer with 3.5 years of practical experience in designing, developing, and implementing diverse applications and solutions across various technologies and programming languages. Eager to apply my extensive development knowledge and hands-on technical skills in a dynamic role as a Frontend Developer or a Full Stack Developer.
+ I am Madhuri Sonawat  :raising_hand_woman: from Kolkata. I am a Frontend Developer with 3.5 years of practical experience in designing, developing, and implementing diverse applications and solutions across various technologies and programming languages. Eager to apply my extensive development knowledge and hands-on technical skills in a dynamic role as a Frontend Developer or a Full Stack Developer.
  
 # :muscle: How am I different from others?
  #### :white_square_button: A hardworking and quick learner.
