@@ -19,16 +19,11 @@
  
 # Languages & Tech
 <p align='center'>
-    <img width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;
-    <img width="40" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;
-    <img width="40" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg">&nbsp;&nbsp;
+    <img width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png">&nbsp;&nbsp;
+    <img width="40" src="https://cdn2.iconfinder.com/data/icons/Qetto___icons_by_ampeross-d4njobq/256/css.png">&nbsp;&nbsp;
     <img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSYXDgtUuX0KXITEzysyAq-gwLKRNalIEdUg&usqp=CAU">&nbsp;&nbsp;
-    <img width="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg">&nbsp;&nbsp;
-    <img width="40" src="https://n7.nextpng.com/sticker-png/925/447/sticker-png-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-web-application.png">&nbsp;&nbsp;
     <img width="40" src="https://material-ui.com/static/logo.png">&nbsp;&nbsp;
-    <img width="45" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg">&nbsp;&nbsp;
-    <img width="50" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/q1cwqhahz7jbtfzalznd">&nbsp;&nbsp;
-    <img width="80" margin="20 0 0 0" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/mongodb.png?itok=T7Bcj44-">&nbsp;&nbsp;
+    <img width="45" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-64.png">&nbsp;&nbsp;
 </p>
 
 [![Madhuri Sonawat github stats](https://github-readme-stats.vercel.app/api?username=madhurisonawat)](https://github.com/madhurisonawat/github-readme-stats)
