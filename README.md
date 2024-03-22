@@ -11,11 +11,11 @@ A Frontend Developer with 3.5 years of practical experience in designing, develo
  #### :white_square_button: Aimimg to become better developer with each passing day.
  
 # :office: How Can you reach me?
-  Connect with me on email madhurisonawat@gmail.com. or
-   [LinkedIn](https://www.linkedin.com/in/madhuri-sonawat-25026b146/).
+  Connect with me on email madhurisonawat@gmail.com or
+   [<img width="20" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/>](https://www.linkedin.com/in/madhuri-sonawat-25026b146/)
    
  # You can Check my work here.
- [Portfolio](http://madhurisonawat.github.io/).
+ [<img width="20" src="https://cdn4.iconfinder.com/data/icons/back-to-school-151/64/briefcase-business-occupation-portfolio-job0A-256.png"/>](http://madhurisonawat.github.io/).
  
 # Languages & Tech
 <p align='center'>
